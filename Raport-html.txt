@@ -1,0 +1,89 @@
+line 1 column 16 - Warning: unknown attribute "prefix"
+line 1 column 73 - Warning: <meta> lacks "content" attribute
+line 1 column 214 - Warning: <link> lacks "type" attribute
+line 1 column 795 - Warning: unknown attribute "property"
+line 1 column 840 - Warning: unknown attribute "property"
+line 1 column 885 - Warning: unknown attribute "property"
+line 1 column 976 - Warning: unknown attribute "property"
+line 1 column 1,160 - Warning: unknown attribute "property"
+line 1 column 1,234 - Warning: unknown attribute "property"
+line 1 column 1,346 - Warning: unknown attribute "property"
+line 1 column 1,417 - Warning: unknown attribute "property"
+line 1 column 1,539 - Warning: unknown attribute "property"
+line 1 column 1,672 - Warning: unknown attribute "property"
+line 1 column 1,721 - Warning: unknown attribute "property"
+line 1 column 1,770 - Warning: unknown attribute "property"
+line 1 column 1,839 - Warning: unknown attribute "property"
+line 1 column 1,893 - Warning: unknown attribute "property"
+line 1 column 1,971 - Warning: unknown attribute "property"
+line 1 column 6,864 - Warning: <script> lacks "type" attribute
+line 3 column 2,971 - Warning: link lacks "type" attribute
+line 3 column 3,164 - Warning: link lacks "type" attribute
+line 3 column 3,308 - Warning: link lacks "type" attribute
+line 3 column 3,520 - Warning: link lacks "type" attribute
+line 3 column 3,732 - Warning: link lacks "type" attribute
+line 3 column 3,945 - Warning: link lacks "type" attribute
+line 3 column 4,453 - Warning: unknown attribute "crossorigin"
+line 3 column 4,795 - Warning: <script> lacks "type" attribute
+line 3 column 6,255 - Warning: unknown attribute "sizes"
+line 3 column 6,409 - Warning: unknown attribute "sizes"
+line 3 column 6,893 - Warning: unknown attribute "itemscope"
+line 3 column 6,893 - Warning: unknown attribute "itemtype"
+line 3 column 7,314 - Warning: unknown attribute "role"
+line 8 column 30 - Error: <header> is not recognized!
+line 8 column 30 - Warning: discarding unexpected <header>
+line 9 column 282 - Warning: unknown attribute "data-toggle-type"
+line 9 column 395 - Warning: unknown attribute "data-section"
+line 9 column 535 - Warning: unknown attribute "data-section"
+line 9 column 883 - Warning: unknown attribute "data-section"
+line 9 column 984 - Warning: unknown attribute "itemscope"
+line 9 column 984 - Warning: unknown attribute "itemtype"
+line 10 column 167 - Warning: unknown attribute "aria-current"
+line 10 column 271 - Warning: unknown attribute "sizes"
+line 10 column 271 - Warning: unknown attribute "srcset"
+line 10 column 271 - Warning: unknown attribute "decoding"
+line 10 column 1,155 - Warning: unknown attribute "data-section"
+line 10 column 1,409 - Error: <nav> is not recognized!
+line 10 column 1,409 - Warning: discarding unexpected <nav>
+line 10 column 1,986 - Warning: unknown attribute "aria-current"
+line 10 column 2,309 - Warning: unknown attribute "aria-expanded"
+line 10 column 2,444 - Warning: trimming empty <span>
+line 10 column 5,378 - Warning: unknown attribute "aria-expanded"
+line 10 column 5,513 - Warning: trimming empty <span>
+line 10 column 6,442 - Warning: discarding unexpected </nav>
+line 10 column 6,575 - Warning: unknown attribute "data-section"
+line 10 column 6,928 - Warning: missing </a> before <div>
+line 10 column 6,968 - Warning: discarding unexpected </a>
+line 10 column 7,244 - Warning: trimming empty <div>
+line 10 column 7,260 - Warning: unknown attribute "data-type"
+line 10 column 7,397 - Warning: unknown attribute "data-section"
+line 10 column 7,880 - Warning: unknown attribute "data-section"
+line 10 column 7,981 - Warning: unknown attribute "itemscope"
+line 10 column 7,981 - Warning: unknown attribute "itemtype"
+line 11 column 167 - Warning: unknown attribute "aria-current"
+line 11 column 271 - Warning: unknown attribute "sizes"
+line 11 column 271 - Warning: unknown attribute "srcset"
+line 11 column 271 - Warning: unknown attribute "decoding"
+line 11 column 1,260 - Warning: unknown attribute "data-section"
+line 11 column 1,407 - Warning: unknown attribute "aria-expanded"
+line 11 column 1,676 - Error: <svg> is not recognized!
+line 11 column 1,676 - Warning: discarding unexpected <svg>
+line 11 column 1,829 - Error: <path> is not recognized!
+line 11 column 1,829 - Warning: discarding unexpected <path>
+line 11 column 2,072 - Warning: discarding unexpected </path>
+line 11 column 2,079 - Warning: discarding unexpected </svg>
+line 11 column 2,085 - Warning: trimming empty <span>
+line 11 column 2,156 - Error: <svg> is not recognized!
+line 11 column 2,156 - Warning: discarding unexpected <svg>
+line 11 column 2,310 - Error: <path> is not recognized!
+line 11 column 2,310 - Warning: discarding unexpected <path>
+line 11 column 2,640 - Warning: discarding unexpected </path>
+line 11 column 2,647 - Warning: discarding unexpected </svg>
+line 11 column 2,653 - Warning: trimming empty <span>
+line 11 column 2,665 - Warning: trimming empty <span>
+line 11 column 2,783 - Warning: unknown attribute "data-section"
+InputStream: Doctype given is ""
+InputStream: Document content looks like HTML 4.01 Transitional
+654 warnings, 44 errors were found!
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
